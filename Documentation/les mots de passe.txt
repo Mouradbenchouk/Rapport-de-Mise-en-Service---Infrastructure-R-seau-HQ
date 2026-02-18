@@ -1,2 +1,3 @@
 Core-01(config)#enable secret class
+
 line vty 0 4 password cisco
